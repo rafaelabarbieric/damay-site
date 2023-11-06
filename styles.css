@@ -1,0 +1,14 @@
+.container-fluid{
+    background-color: #ed2e62;
+}
+.nav-item > a{ 
+    color: white;
+}
+.nav-link:hover{
+    color: #43342b;
+}
+.logo{
+    margin-top: 10px;
+    margin-left: 20px;
+}
+/*#43342b
